@@ -1,0 +1,30 @@
+
+.contenedor a{ /*selector combinado*/
+    text-decoration: none; /*elimina el subrayado de las lineas*/
+    color: cadetblue; /*cambia el color del texto*/
+    font-size: 20px; /*cambiar tamaño de texto*/
+    font-weight: bold; /*convertir el texto enm negritas*/
+}
+
+h2{
+    color: gold; /*cambia el color del texto*/
+}
+
+p{
+    font-size: 18px; /*cambiar tamaño de texto*/
+    color: indigo; /*cambia el color del texto*/
+}
+
+h3{
+    text-align: center; /*centra el texto*/
+    color: burlywood; /*cambia el color del texto*/
+    
+}
+
+.contenedor p{
+    color: chocolate; /*cambia el color del texto*/
+}
+.contenedor2 a{
+    color: rgb(206, 119, 14); /*cambia el color del texto*/
+    text-decoration: none; /*elimina el subrayado de las lineas*/
+}
